@@ -22,7 +22,7 @@ https://www.pyimagesearch.com/2020/06/22/turning-any-cnn-image-classifier-into-a
 
 In order to run basic demo, you will need to run the command
 
-$ python detect_with_classifier.py --image images/stingray.jpg --size "(300, 150)"
+$ python detect_with_classifier.py --image stingray.jpg --size "(300, 150)"
 
 There are four command line arguments for this program.
 
