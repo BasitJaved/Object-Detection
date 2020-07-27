@@ -33,4 +33,6 @@ There are four command line arguments for this program.
 
 ## Results
 
+![](results.jpg)
+
 The code detects objects in images however it is very slow, bounding boxes are not very accurate and we cannot train it end to end.
