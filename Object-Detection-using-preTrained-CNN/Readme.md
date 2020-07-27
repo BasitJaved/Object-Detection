@@ -3,6 +3,7 @@
 In this code we tried to convert a CNN classifier into an object detector using Keras, Tensorflow, and OpenCv. The CNN we used is ResNet 50 and using image Pyramids, sliding window and non-maxima suppression converted the classifier into object detector. 
 
 This code is recreation of blogpost
+
 https://www.pyimagesearch.com/2020/06/22/turning-any-cnn-image-classifier-into-an-object-detector-with-keras-tensorflow-and-opencv/
 
 ## Directory Structure
